@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhavik1995
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
