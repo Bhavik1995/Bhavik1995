@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bhavik Sejpal
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Technologies
+- 🌱 I’m currently learning Full Stack Developement 
 - 📫 How to reach me https://bhaviksejpal-dev.netlify.app
